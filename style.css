@@ -1,0 +1,21 @@
+nav,ul,li{
+    display: inline;
+    margin: 10px;
+}
+h2,a,h3{
+    color: green;
+}
+body{
+    font-family:"roboto"
+}
+.PRO{
+    color: red;
+    font-family:"roboto"
+
+}
+a:hover{
+    color: yellow;
+}
+h1{
+    text-align:center;
+}
